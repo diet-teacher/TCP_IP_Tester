@@ -1,0 +1,13 @@
+﻿.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+build/
+__pycache__/
+*.pyc
